@@ -1,2 +1,1 @@
-#this is my zomato landing page clone
-
+First attempt at creating zomato landing page
